@@ -1,5 +1,6 @@
 # World's Leading Crypto Currency Update
 This repo lists out current trending crypto coins list
+![BTC Coins](https://wallpapernoon.com/wp/medium/bitcoin_wallpapers_504_f5adf_wallpaper.jpg)
 
 ### Last updated at Feb 06, 2022
 
