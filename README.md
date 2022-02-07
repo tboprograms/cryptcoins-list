@@ -1,4 +1,4 @@
-# cryptcoins-list
+#### World's Leading Crypto Currency Update
 This repo lists out current trending crypto coins list
 
 ### Last updated at Feb 06, 2022
